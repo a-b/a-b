@@ -12,7 +12,7 @@ Below, you'll find information about me, my skills, and some of my favorite proj
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Tanzu fo VMs at VMware by Broadcom
+- 🔭 I’m currently working on Tanzu for VMs at VMware by Broadcom
 - 🌱 I’m currently learning [Devcontainers](https://containers.dev/), developer experiece, and ergonomics.
 - 👯 I’m looking to collaborate on developer experience automation.
 - 🤔 I’m looking for help with computer vision on low power embeeded systems.
