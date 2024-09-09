@@ -18,8 +18,9 @@ Below, you'll find information about me, my skills, and some of my favorite proj
 
 ## 🛠️ Technologies & Tools
 
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![Rails](https://img.shields.io/badge/-Rubyonrails-black?style=flat-square&logo=rubyonrails)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -41,6 +42,10 @@ Below, you'll find information about me, my skills, and some of my favorite proj
 ### [CF CLI](https://github.com/cloudfoundry/cli)
 - Description: [Cloudfoundry CLI]
 - Tech Stack: ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+
+### [CAPI](https://github.com/cloudfoundry/cloud_controller_ng)
+- Description: [Cloudfoundry API]
+- Tech Stack: ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)![Rails](https://img.shields.io/badge/-Rubyonrails-black?style=flat-square&logo=rubyonrails)
 
 ## 📫 Contact Me
 
